@@ -32,6 +32,16 @@ p{
   padding-top: none;
 }
 
+button{
+  width: 28em;
+  height: 22em;
+  background-color: beige;
+   border: 5px solid brown;
+}
+
+i{
+  font-size: 15em;
+}
 .rock-button{
     cursor:pointer;
 }
